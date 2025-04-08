@@ -12,50 +12,23 @@
 </div>
 </div>
 
-
 ### 🧰 Tech Stack & Tools
 
 <div align="left">
-  <!-- Cloud Platforms -->
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <div style="background-color: #00A1D6; border-radius: 15px; padding: 10px 20px; color: white; font-weight: bold; text-align: center; width: 100px;">Azure</div>
-  <div style="background-color: #FF9900; border-radius: 15px; padding: 10px 20px; color: white; font-weight: bold; text-align: center; width: 100px;">AWS</div>
-</div>
+    
+[![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)  
+[![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)  
+[![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org) 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org) 
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)  
+[![Azure SQL](https://img.shields.io/badge/Azure%20SQL-007FFF?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://azure.microsoft.com/en-us/services/sql-database/)  
+[![Azure Data Explorer](https://img.shields.io/badge/Azure%20Data%20Explorer-00BFFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/data-explorer/)
+[![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)  
+[![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=aws&logoColor=FFD700)](https://aws.amazon.com/glue/)
 
-<!-- Programming & Scripting -->
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <div style="background-color: #FFD43B; border-radius: 15px; padding: 10px 20px; color: #306998; font-weight: bold; text-align: center; width: 100px;">Python</div>
-  <div style="background-color: #34C759; border-radius: 15px; padding: 10px 20px; color: white; font-weight: bold; text-align: center; width: 100px;">Bash</div>
-</div>
-
-<!-- Databases & Query -->
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <div style="background-color: #D8BFD8; border-radius: 15px; padding: 10px 20px; color: black; font-weight: bold; text-align: center; width: 100px;">SQLite</div>
-  <div style="background-color: #008080; border-radius: 15px; padding: 10px 20px; color: white; font-weight: bold; text-align: center; width: 100px;">MySQL</div>
-  <div style="background-color: #003087; border-radius: 15px; padding: 10px 20px; color: white; font-weight: bold; text-align: center; width: 100px;">PostgreSQL</div>
-</div>
-
-<!-- Data Engineering Tools -->
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <div style="background-color: #1E90FF; border-radius: 15px; padding: 10px 20px; color: white; font-weight: bold; text-align: center; width: 100px;">Docker</div>
-  <div style="background-color: #DC143C; border-radius: 15px; padding: 10px 20px; color: white; font-weight: bold; text-align: center; width: 100px;">Apache</div>
-  <div style="background-color: #FF00FF; border-radius: 15px; padding: 10px 20px; color: white; font-weight: bold; text-align: center; width: 100px;">Spark</div>
-  <div style="background-color: #98FF98; border-radius: 15px; padding: 10px 20px; color: black; font-weight: bold; text-align: center; width: 100px;">Airflow</div>
-</div>
-
-<!-- Azure Services -->
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <div style="background-color: #00CED1; border-radius: 15px; padding: 10px 20px; color: white; font-weight: bold; text-align: center; width: 150px;">Azure Data Explorer</div>
-  <div style="background-color: #4B0082; border-radius: 15px; padding: 10px 20px; color: white; font-weight: bold; text-align: center; width: 100px;">Azure SQL</div>
-</div>
-
-<!-- AWS Services -->
-<h2>AWS Services</h2>
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <div style="background-color: #228B22; border-radius: 15px; padding: 10px 20px; color: white; font-weight: bold; text-align: center; width: 100px;">Amazon S3</div>
-  <div style="background-color: #8B0000; border-radius: 15px; padding: 10px 20px; color: white; font-weight: bold; text-align: center; width: 120px;">Amazon Redshift</div>
-  <div style="background-color: #FFD700; border-radius: 15px; padding: 10px 20px; color: black; font-weight: bold; text-align: center; width: 100px;">AWS Glue</div>
-</div>
 </div>
 
 
